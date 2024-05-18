@@ -1,0 +1,232 @@
+.main{
+    width: vw;
+    height: 100vh;
+    width: 100vw;
+    background-color: hsl(266, 88%, 3%);
+}
+.container{
+    display: flex;
+    padding: 100px;
+    width: 100vw;
+    height: 100vh;
+    
+}
+.mini{
+   
+   display: flex;
+   flex-direction: column;
+   border-radius: 10px;
+  padding-top: 30px;
+  padding-left: 20px;
+    height: 24vh;
+    width: 12vw;
+    background-color: rgb(153, 0, 255);
+    p{margin: 0;}
+}
+.daytime{
+    display: flex;
+    flex-direction: column;
+    background-color: hsl(265, 71%, 9%);
+    width: 13vw;
+    height: 49vh;
+    border-radius: 10px;
+    margin-top: 10px;
+   
+}
+
+.bazu2{
+    margin-left: 30px;
+}
+.bazu3{
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    margin-top: 50px;
+   
+}
+.nusu1{
+    padding-top: 5vh;
+    background-color: orangered;
+    width: 17vw;
+    height: 16vh;
+    border-radius: 10px;
+}
+.nusuu1{
+    
+    background-color: hsl(265, 71%, 9%);;
+    width:17vw ;
+    height: 16vh ;
+    border-radius: 10px;
+    p{margin:0}
+}
+.workbuttons{
+    display: flex;
+    align-items: center;
+    gap: 140px;
+
+}
+.work{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.buttons{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.nusu2{
+    padding-top: 5vh;
+    background-color: aqua;
+    width: 17vw;
+    height: 16vh;
+    border-radius: 10px;
+}
+.nusuu2{
+    
+    background-color: hsl(265, 71%, 9%);;
+    width:17vw ;
+    height: 16vh ;
+    border-radius: 10px;
+    p{margin:0}
+}
+.workbuttons1{
+    display: flex;
+    align-items: center;
+    gap: 140px;
+
+}
+.work1{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.buttons1{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nusu3{
+    padding-top: 5vh;
+    background-color: rgb(218, 65, 91);
+    width: 17vw;
+    height: 16vh;
+    border-radius: 10px;
+}
+.nusuu3{
+    
+    background-color: hsl(265, 71%, 9%);;
+    width:17vw ;
+    height: 16vh ;
+    border-radius: 10px;
+    p{margin:0}
+}
+.workbuttons2{
+    display: flex;
+    align-items: center;
+    gap: 140px;
+
+}
+.work2{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.buttons2{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bazu4{
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    margin-top: 50px;
+}
+.nusu4{
+    padding-top: 5vh;
+    background-color: rgb(100, 228, 111);
+    width: 17vw;
+    height: 16vh;
+    border-radius: 10px;
+}
+.nusuu4{
+    
+    background-color: hsl(265, 71%, 9%);;
+    width:17vw ;
+    height: 16vh ;
+    border-radius: 10px;
+    p{margin:0}
+}
+.workbuttons3{
+    display: flex;
+    align-items: center;
+    gap: 140px;
+
+}
+.work3{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.buttons3{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nusu5{
+    padding-top: 5vh;
+    background-color: rgb(153, 0, 255);
+    width: 17vw;
+    height: 16vh;
+    border-radius: 10px;
+}
+.nusuu5{
+    
+    background-color: hsl(265, 71%, 9%);;
+    width:17vw ;
+    height: 16vh ;
+    border-radius: 10px;
+    p{margin:0}
+}
+.workbuttons4{
+    display: flex;
+    align-items: center;
+    gap: 140px;
+
+}
+.work4{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.buttons4{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nusu6{
+    padding-top: 5vh;
+    background-color: rgb(233, 184, 22);
+    width: 17vw;
+    height: 16vh;
+    border-radius: 10px;
+}
+.nusuu6{
+    
+    background-color: hsl(265, 71%, 9%);;
+    width:17vw ;
+    height: 16vh ;
+    border-radius: 10px;
+    p{margin:0}
+}
+.workbuttons5{
+    display: flex;
+    align-items: center;
+    gap: 140px;
+
+}
+.work5{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.buttons5{
+    display: flex;
+    justify-content: flex-end;
+}
